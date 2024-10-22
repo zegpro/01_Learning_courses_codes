@@ -1,0 +1,8 @@
+-r requirements.txt
+ruff
+black
+isort
+pre-commit
+pytest
+pytest-mock
+pyfakefs
